@@ -1,5 +1,12 @@
 # Minesweeper Game in Java
+
 This repository contains the source code for a Minesweeper game in Java. The game is a classic puzzle game in which the player must uncover all cells that do not contain mines, while avoiding those that do. The game is implemented using the Java Swing framework for GUI.
+
+Code explanation: [Minesweeper in Java](https://iq.opengenus.org/minesweeper-game-in-java/)
+
+![image](https://user-images.githubusercontent.com/10634210/220704905-f2d4c488-7f0a-4a31-85e3-d4f2c93aa3ee.png)
+
+![image](https://user-images.githubusercontent.com/10634210/220705721-a42bab83-b61f-47c0-a9e4-c1868f248dff.png)
 
 ## Code Structure
 The repository contains two code files:
