@@ -4,6 +4,8 @@ This repository contains the source code for a Minesweeper game in Java. The gam
 
 Code explanation: [Minesweeper in Java](https://iq.opengenus.org/minesweeper-game-in-java/)
 
+Developed by [Abhijeet Saroha](https://iq.opengenus.org/author/abhijeet-saroha/) (Machine Learning Developer, [Intern](http://internship.opengenus.org) at OpenGenus)
+
 ![image](https://user-images.githubusercontent.com/10634210/220704905-f2d4c488-7f0a-4a31-85e3-d4f2c93aa3ee.png)
 
 ![image](https://user-images.githubusercontent.com/10634210/220705721-a42bab83-b61f-47c0-a9e4-c1868f248dff.png)
